@@ -1,0 +1,23 @@
+{
+  "name": "0421day02.12",
+  "version": "1.0.0",
+  "description": "创建分支",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmy-0808/fz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmy-0808/fz/issues"
+  },
+  "homepage": "https://github.com/rmy-0808/fz#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}

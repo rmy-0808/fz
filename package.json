@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/rmy-0808/fz#readme",
   "dependencies": {
-    "vue": "^2.6.11"
+    "vue": "^3.0.0"
   }
 }
